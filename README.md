@@ -1,6 +1,10 @@
 
 > Open this page at [https://kylomaskgamer.github.io/falling-square-game/](https://kylomaskgamer.github.io/falling-square-game/)
 
+| V1 Compatible | V2 Compatible |
+| ------------- | ------------- |
+| NOPE!         | 👍            |
+
 ## Use as Extension
 
 This repository **CANNOT** be added as an **extension** in MakeCode.
