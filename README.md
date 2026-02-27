@@ -3,12 +3,12 @@
 
 ## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
+This repository **CANNOT** be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/kylomaskgamer/falling-square-game** and import
+* **DO NOT** open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* **DO NOT** click on **New Project**
+* **DO NOT** click on **Extensions** under the gearwheel menu
+* **DO NOT** search for **https://github.com/kylomaskgamer/falling-square-game** and import
 
 ## Edit this project
 
